@@ -1,3 +1,3 @@
 Roadmap
-- [] write a roadmap
-- [] write a readme
+- [ ] write a roadmap
+- [ ] write a readme
